@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/jbleon/static/css/main.e8a74c1c.css",
+    "main.js": "/jbleon/static/js/main.a852faa3.js",
+    "static/js/787.2212205d.chunk.js": "/jbleon/static/js/787.2212205d.chunk.js",
+    "static/media/bbird.jpg": "/jbleon/static/media/bbird.c57af51542e82e891334.jpg",
+    "index.html": "/jbleon/index.html",
+    "main.e8a74c1c.css.map": "/jbleon/static/css/main.e8a74c1c.css.map",
+    "main.a852faa3.js.map": "/jbleon/static/js/main.a852faa3.js.map",
+    "787.2212205d.chunk.js.map": "/jbleon/static/js/787.2212205d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e8a74c1c.css",
+    "static/js/main.a852faa3.js"
+  ]
+}
